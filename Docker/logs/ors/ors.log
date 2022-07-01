@@ -1,0 +1,38 @@
+2022-06-22 11:10:35,722 INFO [ors.Application] - Starting Application v6.7.0 on 691cc8c6ea41 with PID 135 (/usr/local/tomcat/webapps/ors/WEB-INF/classes started by root in /ors-core)
+2022-06-22 11:10:35,737 DEBUG [ors.Application] - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2022-06-22 11:10:35,742 INFO [ors.Application] - No active profile set, falling back to default profiles: default
+2022-06-22 11:10:41,259 INFO [ors.Application] - Started Application in 7.574 seconds (JVM running for 19.414)
+2022-06-22 11:10:41,332 INFO [routing.RoutingProfileManager] -  Total - 1.00 GB, Free - 654.50 MB, Max: 2 GB, Used - 371.50 MB
+2022-06-22 11:10:41,451 INFO [routing.RoutingProfileManager] -       
+2022-06-22 11:10:41,584 INFO [routing.RoutingProfileManager] - ====> Initializing profiles from 'data/osm_file.pbf' (1 threads) ...
+2022-06-22 11:10:41,598 INFO [routing.RoutingProfileManager] -                               
+2022-06-22 11:10:41,630 INFO [routing.RoutingProfileManager] -                
+2022-06-22 11:10:41,666 INFO [routing.RoutingProfile] - [1] Profiles: 'driving-car', location: 'data/graphs/car'.
+2022-06-22 11:12:04,313 INFO [core.PrepareCore] - 0, updates:0, nodes: 15 462, shortcuts:0, dijkstras:53 802, t(dijk):0.1, t(period):0.0, t(lazy):0.0, t(neighbor):0.0, meanDegree:1, algo:0MB, totalMB:1026, usedMB:276
+2022-06-22 11:12:05,141 INFO [core.PrepareCore] - 3 092, updates:2, nodes: 12 370, shortcuts:28, dijkstras:148 710, t(dijk):0.84, t(period):0.71, t(lazy):0.0, t(neighbor):0.09, meanDegree:1, algo:0MB, totalMB:1026, usedMB:278
+2022-06-22 11:12:05,994 INFO [core.PrepareCore] - 6 184, updates:4, nodes: 9 278, shortcuts:284, dijkstras:218 361, t(dijk):1.61, t(period):1.45, t(lazy):0.0, t(neighbor):0.17, meanDegree:1, algo:0MB, totalMB:1026, usedMB:279
+2022-06-22 11:12:06,962 INFO [core.PrepareCore] - 9 276, updates:6, nodes: 6 186, shortcuts:3 417, dijkstras:291 225, t(dijk):2.47, t(period):1.99, t(lazy):0.0, t(neighbor):0.49, meanDegree:1, algo:0MB, totalMB:1026, usedMB:281
+2022-06-22 11:12:07,781 INFO [core.PrepareCore] - 12 368, updates:8, nodes: 3 094, shortcuts:6 476, dijkstras:350 662, t(dijk):3.19, t(period):2.26, t(lazy):0.0, t(neighbor):0.9, meanDegree:2, algo:0MB, totalMB:1026, usedMB:283
+2022-06-22 11:12:08,396 INFO [core.PrepareCore] - took:4, new shortcuts: 10 251, prepare|fastest|car-ors, dijkstras:414281, t(dijk):3.74, t(period):2.29, t(lazy):0.02, t(neighbor):1.34, meanDegree:3, initSize:15462, periodic:10, lazy:10, neighbor:90, totalMB:1026, usedMB:284
+2022-06-22 11:12:08,617 INFO [core.PrepareCore] - 0, updates:0, nodes: 15 462, shortcuts:0, dijkstras:53 802, t(dijk):0.12, t(period):0.0, t(lazy):0.0, t(neighbor):0.0, meanDegree:1, algo:0MB, totalMB:1026, usedMB:288
+2022-06-22 11:12:09,303 INFO [core.PrepareCore] - 3 092, updates:2, nodes: 12 370, shortcuts:10, dijkstras:148 818, t(dijk):0.74, t(period):0.59, t(lazy):0.0, t(neighbor):0.08, meanDegree:1, algo:0MB, totalMB:1026, usedMB:289
+2022-06-22 11:12:09,943 INFO [core.PrepareCore] - 6 184, updates:4, nodes: 9 278, shortcuts:477, dijkstras:220 956, t(dijk):1.32, t(period):1.17, t(lazy):0.0, t(neighbor):0.13, meanDegree:1, algo:0MB, totalMB:1026, usedMB:291
+2022-06-22 11:12:10,710 INFO [core.PrepareCore] - 9 276, updates:6, nodes: 6 186, shortcuts:3 671, dijkstras:297 863, t(dijk):2.01, t(period):1.68, t(lazy):0.0, t(neighbor):0.32, meanDegree:1, algo:0MB, totalMB:1026, usedMB:293
+2022-06-22 11:12:11,487 INFO [core.PrepareCore] - 12 368, updates:8, nodes: 3 094, shortcuts:6 945, dijkstras:363 643, t(dijk):2.71, t(period):2.02, t(lazy):0.0, t(neighbor):0.67, meanDegree:2, algo:0MB, totalMB:1026, usedMB:295
+2022-06-22 11:12:12,219 INFO [core.PrepareCore] - took:3, new shortcuts: 11 540, prepare|shortest|car-ors, dijkstras:464038, t(dijk):3.37, t(period):2.05, t(lazy):0.04, t(neighbor):1.21, meanDegree:5, initSize:15462, periodic:10, lazy:10, neighbor:90, totalMB:1026, usedMB:296
+2022-06-22 11:12:17,251 INFO [routing.RoutingProfile] - [1] FlagEncoders: 1, bits used [UNKNOWN]/64.
+2022-06-22 11:12:17,251 INFO [routing.RoutingProfile] - [1] Capacity: [UNKNOWN]. (edges - 20863, nodes - 15462)
+2022-06-22 11:12:17,253 INFO [routing.RoutingProfile] - [1] Total time: 95.587s.
+2022-06-22 11:12:17,254 INFO [routing.RoutingProfile] - [1] Finished at: 2022-06-22 11:12:17.
+2022-06-22 11:12:17,254 INFO [routing.RoutingProfile] -                               
+2022-06-22 11:12:17,261 INFO [routing.RoutingProfileManager] - Total time: 95.809s.
+2022-06-22 11:12:17,262 INFO [routing.RoutingProfileManager] - ========================================================================
+2022-06-22 11:12:17,270 INFO [routing.RoutingProfileManager] - ====> Recycling garbage...
+2022-06-22 11:12:17,271 INFO [routing.RoutingProfileManager] - Before:  Total - 1.00 GB, Free - 419.68 MB, Max: 2 GB, Used - 606.32 MB
+2022-06-22 11:12:17,408 INFO [routing.RoutingProfileManager] - After:  Total - 1024 MB, Free - 942.17 MB, Max: 2 GB, Used - 81.83 MB
+2022-06-22 11:12:17,417 INFO [routing.RoutingProfileManager] - ========================================================================
+2022-06-22 11:12:17,418 INFO [routing.RoutingProfileManager] - ====> Memory usage by profiles:
+2022-06-22 11:12:17,421 INFO [routing.RoutingProfileManager] - [1] 20.03 MB (24.5%)
+2022-06-22 11:12:17,423 INFO [routing.RoutingProfileManager] - Total: 20.03 MB (24.5%)
+2022-06-22 11:12:17,424 INFO [routing.RoutingProfileManager] - ========================================================================
+2022-06-22 12:24:49,629 INFO [ors.logging] - Start shutting down ORS and releasing resources.
