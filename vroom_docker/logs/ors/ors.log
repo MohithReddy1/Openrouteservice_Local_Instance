@@ -1,0 +1,26 @@
+2022-07-02 13:36:43,003 INFO [ors.Application] - Starting Application v6.7.0 on 9045bc027b13 with PID 8 (/usr/local/tomcat/webapps/ors/WEB-INF/classes started by ors in /ors-core)
+2022-07-02 13:36:43,014 DEBUG [ors.Application] - Running with Spring Boot v2.3.5.RELEASE, Spring v5.2.10.RELEASE
+2022-07-02 13:36:43,016 INFO [ors.Application] - No active profile set, falling back to default profiles: default
+2022-07-02 13:36:46,307 INFO [ors.Application] - Started Application in 4.355 seconds (JVM running for 11.403)
+2022-07-02 13:36:46,353 INFO [routing.RoutingProfileManager] -  Total - 1.00 GB, Free - 663.76 MB, Max: 2 GB, Used - 362.24 MB
+2022-07-02 13:36:46,354 INFO [routing.RoutingProfileManager] -       
+2022-07-02 13:36:46,370 INFO [routing.RoutingProfileManager] - ====> Initializing profiles from 'data/osm_file.pbf' (1 threads) ...
+2022-07-02 13:36:46,371 INFO [routing.RoutingProfileManager] -                               
+2022-07-02 13:36:46,374 INFO [routing.RoutingProfileManager] -                
+2022-07-02 13:36:46,415 INFO [routing.RoutingProfile] - [1] Profiles: 'driving-car', location: 'data/graphs/car'.
+2022-07-02 13:36:57,447 INFO [routing.RoutingProfile] - [1] FlagEncoders: 1, bits used [UNKNOWN]/64.
+2022-07-02 13:36:57,448 INFO [routing.RoutingProfile] - [1] Capacity: [UNKNOWN]. (edges - 2373019, nodes - 1798029)
+2022-07-02 13:36:57,449 INFO [routing.RoutingProfile] - [1] Total time: 11.034s.
+2022-07-02 13:36:57,449 INFO [routing.RoutingProfile] - [1] Finished at: 2022-07-02 13:36:57.
+2022-07-02 13:36:57,450 INFO [routing.RoutingProfile] -                               
+2022-07-02 13:36:57,451 INFO [routing.RoutingProfileManager] - Total time: 11.096s.
+2022-07-02 13:36:57,452 INFO [routing.RoutingProfileManager] - ========================================================================
+2022-07-02 13:36:57,455 INFO [routing.RoutingProfileManager] - ====> Recycling garbage...
+2022-07-02 13:36:57,456 INFO [routing.RoutingProfileManager] - Before:  Total - 1.17 GB, Free - 6.99 MB, Max: 2 GB, Used - 1.17 GB
+2022-07-02 13:36:57,519 INFO [routing.RoutingProfileManager] - After:  Total - 1.91 GB, Free - 785.45 MB, Max: 2 GB, Used - 1.14 GB
+2022-07-02 13:36:57,520 INFO [routing.RoutingProfileManager] - ========================================================================
+2022-07-02 13:36:57,520 INFO [routing.RoutingProfileManager] - ====> Memory usage by profiles:
+2022-07-02 13:36:57,522 INFO [routing.RoutingProfileManager] - [1] 519.03 MB (44.4%)
+2022-07-02 13:36:57,523 INFO [routing.RoutingProfileManager] - Total: 519.03 MB (44.4%)
+2022-07-02 13:36:57,523 INFO [routing.RoutingProfileManager] - ========================================================================
+2022-07-02 13:38:18,929 INFO [util.SystemMessage] - SystemMessage loaded 0 messages.

@@ -1,0 +1,61 @@
+02-Jul-2022 13:36:36.141 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.69
+02-Jul-2022 13:36:36.143 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 30 2021 18:00:00 UTC
+02-Jul-2022 13:36:36.143 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.69.0
+02-Jul-2022 13:36:36.143 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+02-Jul-2022 13:36:36.143 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.10.16.3-microsoft-standard-WSL2
+02-Jul-2022 13:36:36.143 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+02-Jul-2022 13:36:36.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/local/openjdk-11
+02-Jul-2022 13:36:36.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.13+8
+02-Jul-2022 13:36:36.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+02-Jul-2022 13:36:36.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /usr/local/tomcat
+02-Jul-2022 13:36:36.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /usr/local/tomcat
+02-Jul-2022 13:36:36.148 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+02-Jul-2022 13:36:36.148 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+02-Jul-2022 13:36:36.149 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+02-Jul-2022 13:36:36.149 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+02-Jul-2022 13:36:36.149 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+02-Jul-2022 13:36:36.149 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/usr/local/tomcat/conf/logging.properties
+02-Jul-2022 13:36:36.149 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+02-Jul-2022 13:36:36.149 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.awt.headless=true
+02-Jul-2022 13:36:36.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:TargetSurvivorRatio=75
+02-Jul-2022 13:36:36.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:SurvivorRatio=64
+02-Jul-2022 13:36:36.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:MaxTenuringThreshold=3
+02-Jul-2022 13:36:36.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:+UseG1GC
+02-Jul-2022 13:36:36.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:+ScavengeBeforeFullGC
+02-Jul-2022 13:36:36.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -XX:ParallelGCThreads=4
+02-Jul-2022 13:36:36.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms1g
+02-Jul-2022 13:36:36.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx2g
+02-Jul-2022 13:36:36.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+02-Jul-2022 13:36:36.151 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+02-Jul-2022 13:36:36.151 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+02-Jul-2022 13:36:36.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote
+02-Jul-2022 13:36:36.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.port=9001
+02-Jul-2022 13:36:36.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.rmi.port=9001
+02-Jul-2022 13:36:36.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.authenticate=false
+02-Jul-2022 13:36:36.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+02-Jul-2022 13:36:36.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.rmi.server.hostname=localhost
+02-Jul-2022 13:36:36.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+02-Jul-2022 13:36:36.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/usr/local/tomcat
+02-Jul-2022 13:36:36.152 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/usr/local/tomcat
+02-Jul-2022 13:36:36.153 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/usr/local/tomcat/temp
+02-Jul-2022 13:36:36.153 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib]
+02-Jul-2022 13:36:36.202 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+02-Jul-2022 13:36:36.222 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+02-Jul-2022 13:36:36.236 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 526 ms
+02-Jul-2022 13:36:36.296 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+02-Jul-2022 13:36:36.296 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/8.5.69]
+02-Jul-2022 13:36:36.324 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/usr/local/tomcat/webapps/ors.war]
+02-Jul-2022 13:36:41.440 INFO [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+02-Jul-2022 13:36:46.371 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/usr/local/tomcat/webapps/ors.war] has finished in [10,047] ms
+02-Jul-2022 13:36:46.372 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/manager]
+02-Jul-2022 13:36:46.402 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/manager] has finished in [30] ms
+02-Jul-2022 13:36:46.403 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/examples]
+02-Jul-2022 13:36:46.581 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/examples] has finished in [179] ms
+02-Jul-2022 13:36:46.582 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/docs]
+02-Jul-2022 13:36:46.597 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/docs] has finished in [15] ms
+02-Jul-2022 13:36:46.598 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/ROOT]
+02-Jul-2022 13:36:46.611 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/ROOT] has finished in [12] ms
+02-Jul-2022 13:36:46.611 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/usr/local/tomcat/webapps/host-manager]
+02-Jul-2022 13:36:46.630 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/usr/local/tomcat/webapps/host-manager] has finished in [19] ms
+02-Jul-2022 13:36:46.636 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+02-Jul-2022 13:36:46.644 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 10408 ms
